@@ -1,4 +1,3 @@
 - 👋 Hi, I’m mahshid Nabati
-- 👀 I'm interested in Web Development
-- 🌱 I’m currently learning React
+- 👀 I'm a Web Developer
 - 💞️ I’m looking to collaborate on React,JavaScript and HTML5,CSS3 responsive website templates projects
