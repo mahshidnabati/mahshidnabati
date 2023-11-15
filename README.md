@@ -1,3 +1,4 @@
-- 👋 Hi, I’m mahshid Nabati
-- 👀 I'm a Web Developer
-- 💞️ I’m looking to collaborate on React,JavaScript and HTML5,CSS3 responsive website templates projects
+- Hi, My name is Mahshid Nabati 
+- A passionate Full Stack Web Developer
+  
+
